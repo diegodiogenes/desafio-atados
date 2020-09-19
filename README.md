@@ -45,7 +45,7 @@ Será criado um usuário administrador e dois usuários default com senha test12
 
 ## Rotas
 
-Foram criados um total de 10 rotas, sendo elas:
+Foram criados um total de 11 rotas, sendo elas:
 - Auth
   - Login: `[POST] /api-token-auth`
 - Usuários
