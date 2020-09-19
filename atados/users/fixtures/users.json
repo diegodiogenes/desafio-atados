@@ -1,0 +1,62 @@
+[
+{
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$z5HWYzYeD5rF$yRgXgkHnGL8OHxGSA3Mj9a0k6rcuahMBhZcWe9NG1bU=",
+        "last_login": "2020-09-18T02:25:54.673Z",
+        "is_superuser": true,
+        "username": "admin",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-09-18T02:23:54.876Z",
+        "first_name": "",
+        "last_name": "",
+        "email": "admin@adminpy.com",
+        "district": "",
+        "city": "",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$z5HWYzYeD5rF$yRgXgkHnGL8OHxGSA3Mj9a0k6rcuahMBhZcWe9NG1bU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "davidgilmour",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-09-18T02:26:53.105Z",
+        "first_name": "David",
+        "last_name": "Gilmour",
+        "email": "davidgilmour@gmail.com",
+        "district": "Nova Esperança",
+        "city": "Natal/RN",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "users.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$216000$z5HWYzYeD5rF$yRgXgkHnGL8OHxGSA3Mj9a0k6rcuahMBhZcWe9NG1bU=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "johnlennon",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-09-18T03:31:49.939Z",
+        "first_name": "John",
+        "last_name": "Lennon",
+        "email": "johnlennon@gmail.com",
+        "district": "Abolição 3",
+        "city": "Mossoró/RN",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

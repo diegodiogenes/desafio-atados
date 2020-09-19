@@ -1,0 +1,44 @@
+[
+  {
+    "model": "actions.action",
+    "pk": 1,
+    "fields": {
+      "name": "Castrar gatinhos da rua",
+      "institute": "Abrigo de Mossoró",
+      "address": "Mossoró/RN",
+      "description": "Dar apoio a castração dos gatinhos da rua",
+      "volunteer": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "model": "actions.action",
+    "pk": 2,
+    "fields": {
+      "name": "Alimentar gatinhos da rua",
+      "institute": "Abrigo de Natal",
+      "address": "Natal/RN",
+      "description": "Dar alimento aos gatinhos da rua",
+      "volunteer": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "model": "actions.action",
+    "pk": 3,
+    "fields": {
+      "name": "Realizar bazar na periferia",
+      "institute": "Todo na Luta Projeto Social",
+      "address": "Ribeira, Natal/RN",
+      "description": "Bazar solidário junto com o pessoal da periferia",
+      "volunteer": [
+        1
+      ]
+    }
+  }
+]
