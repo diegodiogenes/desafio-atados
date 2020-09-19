@@ -17,6 +17,9 @@ Tendo feito a instação anterior, basta rodar o seguinte comando na raiz do pro
 docker-compose up -d --build
 ```
 
+Basta acessar agora: http://0.0.0.0:8000/api
+
+
 ### Realizando testes
 
 Para testar se o setup foi concluído com êxito, utilize o comando:
